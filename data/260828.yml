@@ -1,0 +1,57 @@
+about:
+  description: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+  license: MIT
+  homepage: 
+  head: 6a3d855
+  archived: false
+  latestVersion: v2.2.27
+  collectedAt: 2026-08-28T06:55:31Z
+timeline:
+  created: 2025-08-08
+  lastCommit: 2026-08-26
+  lastRelease: 2026-07-25
+popularity:
+  star: 12636
+  watcher: 28
+  fork: 553
+  release: 12
+  contributor: 93
+  pullRequest: 128
+  issue: 254
+language:
+  TypeScript: 2180937
+  JavaScript: 17923
+totalLine: 2198860
+recent:
+  last30d:
+    since: 2026-07-29
+    release: 0
+    mergedPR: 3
+    openPR: 16
+    closedIssue: 0
+    openIssue: 11
+    commit: 3
+  last90d:
+    since: 2026-05-30
+    release: 8
+    mergedPR: 57
+    openPR: 33
+    closedIssue: 26
+    openIssue: 28
+    commit: 75
+  last180d:
+    since: 2026-03-01
+    release: 12
+    mergedPR: 124
+    openPR: 54
+    closedIssue: 94
+    openIssue: 46
+    commit: 207
+  last360d:
+    since: 2025-09-02
+    release: 12
+    mergedPR: 157
+    openPR: 59
+    closedIssue: 156
+    openIssue: 50
+    commit: 263
