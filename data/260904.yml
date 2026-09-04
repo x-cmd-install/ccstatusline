@@ -7,15 +7,15 @@ about:
   head: 016be1f
   archived: false
   latestVersion: v2.2.29
-  collectedAt: 2026-09-04T19:58:28Z
+  collectedAt: 2026-09-04T20:42:32Z
 timeline:
   created: 2025-08-08
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 12767
+  star: 12768
   watcher: 29
-  fork: 556
+  fork: 557
   release: 14
   contributor: 99
   pullRequest: 300
@@ -81,5 +81,38 @@ total:
   openIssue: 54
   commit: 378
 ---
+path: /home/runner/.x-repo/github.com/sirmalloc/ccstatusline
+collectedAt: 2026-09-04T20:42:33Z
+loc:
+  TypeScript:
+    code: 44262
+    comments: 1535
+    blanks: 7632
+    files: 316
+  Tsx:
+    code: 11391
+    comments: 219
+    blanks: 1200
+    files: 41
+  Json:
+    code: 367
+    comments: 0
+    blanks: 3
+    files: 6
+  JavaScript:
+    code: 145
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 912
+    blanks: 333
+    files: 5
+total:
+  code: 56251
+  comments: 2715
+  blanks: 9194
+  files: 369
 ---
 
