@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.29"
   latestRelease: "v2.2.29"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:02:02Z
+  collectedAt: 2026-09-09T20:24:50Z
 timeline:
   created: 2025-08-08
   lastCommit: 2026-09-03
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 12808
+  star: 12818
   watcher: 29
-  fork: 561
+  fork: 562
   release: 14
   contributor: 99
   pullRequest: 306
@@ -84,7 +84,7 @@ total:
   commit: 378
 ---
 path: /home/runner/.x-repo/github.com/sirmalloc/ccstatusline
-collectedAt: 2026-09-09T06:02:04Z
+collectedAt: 2026-09-09T20:24:52Z
 loc:
   TypeScript:
     code: 44262
