@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: ccstatusline
+  binname: ccstatusline
+  visiblename: ccstatusline
+  version: 2.2.29
+  origversion: 2.2.29-1
+  status: unique
+  summary: Highly customizable status line formatter for Claude Code CLI with Powerline support
+  maintainers:
+    - theblazehen@aur
+  licenses:
+    - MIT
