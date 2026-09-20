@@ -4,7 +4,7 @@
 
 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
-![ccstatusline](https://repo.x-cmd.io/ccstatusline.svg?lang=zh)
+[![x-cmd/install — ccstatusline Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ccstatusline.svg?lang=zh)](https://x-cmd.com/install/ccstatusline)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install ccstatusline
 
 ## 代码洞察
 
-合计: **58,439** 行代码（覆盖前 5 种语言、共 **378** 个文件）。
+合计: **58,453** 行代码（覆盖前 5 种语言、共 **378** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 46,463 | 1,811 | 8,036 | 325 |
+| TypeScript | 46,477 | 1,814 | 8,035 | 325 |
 | Tsx | 11,463 | 218 | 1,208 | 41 |
 | Json | 368 | 0 | 3 | 6 |
 | JavaScript | 145 | 0 | 2 | 1 |
@@ -32,26 +32,26 @@ x install ccstatusline
 ## 发布
 
 - **最新版本**: `v2.2.30` (2026-09-17)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 
 ## 流行度
 
-- **Star**: 12,930 · **Fork**: 569 · **开放 issue**: 260 · **贡献者**: 105
+- **Star**: 12,955 · **Fork**: 571 · **开放 issue**: 260 · **贡献者**: 106
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 194 · **开放 PR**: 46 · **已关闭 issue**: 206 · **开放 issue**: 54 · **提交数**: 395
+- **发布数**: 15 · **已合并 PR**: 195 · **开放 PR**: 48 · **已关闭 issue**: 206 · **开放 issue**: 54 · **提交数**: 396
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 16 | 3 | 4 | 7 | 33 |
-| last60d | 2026-07-20 | 7 | 30 | 10 | 6 | 14 | 44 |
-| 90d | 2026-06-20 | 8 | 53 | 16 | 13 | 21 | 71 |
-| last180d | 2026-03-22 | 15 | 130 | 38 | 76 | 40 | 184 |
-| 360d | 2025-09-23 | 15 | 178 | 45 | 149 | 47 | 277 |
-| last720d | 2024-09-28 | 15 | 194 | 46 | 206 | 54 | 395 |
+| 30d | 2026-08-21 | 3 | 17 | 5 | 4 | 6 | 34 |
+| last60d | 2026-07-22 | 5 | 31 | 11 | 6 | 14 | 45 |
+| 90d | 2026-06-22 | 8 | 52 | 17 | 13 | 20 | 72 |
+| last180d | 2026-03-24 | 15 | 130 | 40 | 76 | 39 | 185 |
+| 360d | 2025-09-25 | 15 | 177 | 47 | 148 | 47 | 278 |
+| last720d | 2024-09-30 | 15 | 195 | 48 | 206 | 54 | 396 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ ccstatusline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:16:04Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:14:04Z._

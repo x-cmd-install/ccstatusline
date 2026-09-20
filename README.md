@@ -4,7 +4,7 @@
 
 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
-![ccstatusline](https://repo.x-cmd.io/ccstatusline.svg)
+[![x-cmd/install — ccstatusline Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ccstatusline.svg)](https://x-cmd.com/install/ccstatusline)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install ccstatusline
 
 ## Code insight
 
-Total: **58,439** lines of code across **378** files in the top 5 languages.
+Total: **58,453** lines of code across **378** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 46,463 | 1,811 | 8,036 | 325 |
+| TypeScript | 46,477 | 1,814 | 8,035 | 325 |
 | Tsx | 11,463 | 218 | 1,208 | 41 |
 | Json | 368 | 0 | 3 | 6 |
 | JavaScript | 145 | 0 | 2 | 1 |
@@ -32,26 +32,26 @@ Total: **58,439** lines of code across **378** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.30` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 12,930 · **Forks**: 569 · **Open issues**: 260 · **Contributors**: 105
+- **Stars**: 12,955 · **Forks**: 571 · **Open issues**: 260 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 194 · **Open PRs**: 46 · **Closed issues**: 206 · **Open issues**: 54 · **Commits**: 395
+- **Releases**: 15 · **Merged PRs**: 195 · **Open PRs**: 48 · **Closed issues**: 206 · **Open issues**: 54 · **Commits**: 396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 16 | 3 | 4 | 7 | 33 |
-| last60d | 2026-07-20 | 7 | 30 | 10 | 6 | 14 | 44 |
-| 90d | 2026-06-20 | 8 | 53 | 16 | 13 | 21 | 71 |
-| last180d | 2026-03-22 | 15 | 130 | 38 | 76 | 40 | 184 |
-| 360d | 2025-09-23 | 15 | 178 | 45 | 149 | 47 | 277 |
-| last720d | 2024-09-28 | 15 | 194 | 46 | 206 | 54 | 395 |
+| 30d | 2026-08-21 | 3 | 17 | 5 | 4 | 6 | 34 |
+| last60d | 2026-07-22 | 5 | 31 | 11 | 6 | 14 | 45 |
+| 90d | 2026-06-22 | 8 | 52 | 17 | 13 | 20 | 72 |
+| last180d | 2026-03-24 | 15 | 130 | 40 | 76 | 39 | 185 |
+| 360d | 2025-09-25 | 15 | 177 | 47 | 148 | 47 | 278 |
+| last720d | 2024-09-30 | 15 | 195 | 48 | 206 | 54 | 396 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccstatusline lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:16:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:03Z._
