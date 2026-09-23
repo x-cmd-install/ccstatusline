@@ -4,7 +4,7 @@
 
 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
-[![x-cmd/install — ccstatusline Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ccstatusline.svg?lang=zh)](https://x-cmd.com/install/ccstatusline)
+[![x-cmd/install — ccstatusline Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ccstatusline.svg?lang=zh)](https://x-cmd.com/install/ccstatusline)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install ccstatusline
 
 ## 流行度
 
-- **Star**: 12,974 · **Fork**: 575 · **开放 issue**: 261 · **贡献者**: 106
+- **Star**: 12,987 · **Fork**: 576 · **开放 issue**: 261 · **贡献者**: 106
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install ccstatusline
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 17 | 8 | 3 | 7 | 32 |
-| last60d | 2026-07-24 | 5 | 29 | 14 | 6 | 15 | 35 |
-| 90d | 2026-06-24 | 8 | 49 | 20 | 11 | 21 | 72 |
-| last180d | 2026-03-26 | 15 | 130 | 40 | 75 | 40 | 185 |
-| 360d | 2025-09-27 | 15 | 177 | 50 | 148 | 48 | 276 |
-| last720d | 2024-10-02 | 15 | 195 | 51 | 206 | 55 | 396 |
+| 30d | 2026-08-24 | 3 | 15 | 8 | 3 | 7 | 32 |
+| last60d | 2026-07-25 | 5 | 29 | 14 | 6 | 15 | 35 |
+| 90d | 2026-06-25 | 8 | 48 | 20 | 11 | 21 | 72 |
+| last180d | 2026-03-27 | 15 | 130 | 40 | 75 | 40 | 185 |
+| 360d | 2025-09-28 | 15 | 177 | 50 | 148 | 48 | 276 |
+| last720d | 2024-10-03 | 15 | 195 | 51 | 206 | 55 | 396 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ ccstatusline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:26:05Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:27:21Z._
