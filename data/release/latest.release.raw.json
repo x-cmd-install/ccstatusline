@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/sirmalloc/ccstatusline/releases/390928586",
-  "assets_url": "https://api.github.com/repos/sirmalloc/ccstatusline/releases/390928586/assets",
-  "upload_url": "https://uploads.github.com/repos/sirmalloc/ccstatusline/releases/390928586/assets{?name,label}",
-  "html_url": "https://github.com/sirmalloc/ccstatusline/releases/tag/v2.2.30",
-  "id": 390928586,
+  "url": "https://api.github.com/repos/sirmalloc/ccstatusline/releases/408237271",
+  "assets_url": "https://api.github.com/repos/sirmalloc/ccstatusline/releases/408237271/assets",
+  "upload_url": "https://uploads.github.com/repos/sirmalloc/ccstatusline/releases/408237271/assets{?name,label}",
+  "html_url": "https://github.com/sirmalloc/ccstatusline/releases/tag/v2.2.32",
+  "id": 408237271,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPagTbM4XTRjK",
-  "tag_name": "v2.2.30",
+  "node_id": "RE_kwDOPagTbM4YVTTX",
+  "tag_name": "v2.2.32",
   "target_commitish": "main",
-  "name": "v2.2.30",
+  "name": "v2.2.32",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T17:39:18Z",
-  "updated_at": "2026-09-17T17:44:08Z",
-  "published_at": "2026-09-17T17:42:22Z",
+  "created_at": "2026-10-09T18:49:54Z",
+  "updated_at": "2026-10-09T18:51:51Z",
+  "published_at": "2026-10-09T18:51:51Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/sirmalloc/ccstatusline/tarball/v2.2.30",
-  "zipball_url": "https://api.github.com/repos/sirmalloc/ccstatusline/zipball/v2.2.30",
-  "body": "Published to npm: https://www.npmjs.com/package/ccstatusline\r\n\r\n## What's Changed\r\n* chore(deps-dev): bump typescript from 6.0.3 to 7.0.2 by @dependabot[bot] in https://github.com/sirmalloc/ccstatusline/pull/578\r\n* chore(deps-dev): bump chalk from 5.6.2 to 6.0.0 by @dependabot[bot] in https://github.com/sirmalloc/ccstatusline/pull/579\r\n* chore(deps-dev): bump the dev-dependencies group across 1 directory with 8 updates by @dependabot[bot] in https://github.com/sirmalloc/ccstatusline/pull/589\r\n* Add claudenews to Related Projects by @bhpark1013 in https://github.com/sirmalloc/ccstatusline/pull/584\r\n* fix: add timeout to the cached git runner by @tahodev in https://github.com/sirmalloc/ccstatusline/pull/585\r\n* fix(git): time out cached commands by @SR0725 in https://github.com/sirmalloc/ccstatusline/pull/559\r\n* feat(usage): let the reset timers hide their no-data placeholders by @zachthedev in https://github.com/sirmalloc/ccstatusline/pull/542\r\n* refactor(usage): extract the usage-percent widgets onto a shared module by @zachthedev in https://github.com/sirmalloc/ccstatusline/pull/545\r\n* feat(custom-command): cache output behind an opt-in TTL and honor the timeout by @zachthedev in https://github.com/sirmalloc/ccstatusline/pull/539\r\n* fix(usage): parse a model-scoped weekly limit at 0% with no resets_at as real zero usage by @emotionalboySY in https://github.com/sirmalloc/ccstatusline/pull/534\r\n* feat(widgets): give the remaining git and jj widgets symbol slots by @zachthedev in https://github.com/sirmalloc/ccstatusline/pull/574\r\n* Add llms.txt for LLM/agent-readable project summary by @abyworkings-coder in https://github.com/sirmalloc/ccstatusline/pull/527\r\n* fix(usage): read the CLAUDE_CONFIG_DIR keychain credential first on macOS by @nguerrier in https://github.com/sirmalloc/ccstatusline/pull/573\r\n* fix(usage): fingerprint the usage cache by refresh token so a routine token refresh is not read as an account switch by @emotionalboySY in https://github.com/sirmalloc/ccstatusline/pull/536\r\n* fix: default flex mode to full by @godlockin in https://github.com/sirmalloc/ccstatusline/pull/349\r\n\r\n## New Contributors\r\n* @bhpark1013 made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/584\r\n* @tahodev made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/585\r\n* @SR0725 made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/559\r\n* @emotionalboySY made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/534\r\n* @abyworkings-coder made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/527\r\n* @nguerrier made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/573\r\n\r\n**Full Changelog**: https://github.com/sirmalloc/ccstatusline/compare/v2.2.29...v2.2.30",
-  "mentions_count": 9
+  "tarball_url": "https://api.github.com/repos/sirmalloc/ccstatusline/tarball/v2.2.32",
+  "zipball_url": "https://api.github.com/repos/sirmalloc/ccstatusline/zipball/v2.2.32",
+  "body": "Published to npm: https://www.npmjs.com/package/ccstatusline\n\n## What's Changed\n* [medium] fix(install): keep unreadable Claude settings instead of overwriting them by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/627\n* [low] fix(usage): only clear the in-flight lock this render wrote by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/624\n* [low] fix(cache-timer): stop reporting HOT after interrupts and local slash commands by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/628\n* [low] fix(ansi): never truncate to a line wider than maxWidth by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/625\n* [low] perf(ansi): fast-path ASCII and memoise cluster widths by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/633\n* [medium] fix(git): stop respawning git outside repos and across session cwds by @elhoim in https://github.com/sirmalloc/ccstatusline/pull/631\n* docs: fix stale test and widget counts in AGENTS.md by @wachen in https://github.com/sirmalloc/ccstatusline/pull/533\n\n## New Contributors\n* @wachen made their first contribution in https://github.com/sirmalloc/ccstatusline/pull/533\n\n**Full Changelog**: https://github.com/sirmalloc/ccstatusline/compare/v2.2.31...v2.2.32",
+  "reactions": {
+    "url": "https://api.github.com/repos/sirmalloc/ccstatusline/releases/408237271/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "mentions_count": 2
 }
