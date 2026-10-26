@@ -36,22 +36,22 @@ Total: **66,418** lines of code across **436** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,397 · **Forks**: 594 · **Open issues**: 289 · **Contributors**: 111
+- **Stars**: 13,411 · **Forks**: 598 · **Open issues**: 289 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 258 · **Open PRs**: 97 · **Closed issues**: 211 · **Open issues**: 78 · **Commits**: 474
+- **Releases**: 17 · **Merged PRs**: 258 · **Open PRs**: 98 · **Closed issues**: 211 · **Open issues**: 78 · **Commits**: 474
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 61 | 50 | 2 | 22 | 78 |
-| last60d | 2026-08-26 | 5 | 76 | 58 | 6 | 30 | 112 |
-| 90d | 2026-07-27 | 5 | 90 | 63 | 11 | 37 | 113 |
-| last180d | 2026-04-28 | 17 | 168 | 81 | 57 | 58 | 220 |
-| 360d | 2025-10-30 | 17 | 236 | 96 | 143 | 71 | 348 |
-| last720d | 2024-11-04 | 17 | 258 | 97 | 211 | 78 | 474 |
+| 30d | 2026-09-26 | 2 | 60 | 49 | 2 | 19 | 78 |
+| last60d | 2026-08-27 | 5 | 76 | 59 | 6 | 30 | 110 |
+| 90d | 2026-07-28 | 5 | 90 | 64 | 11 | 35 | 113 |
+| last180d | 2026-04-29 | 17 | 168 | 81 | 57 | 58 | 212 |
+| 360d | 2025-10-31 | 17 | 236 | 97 | 143 | 71 | 348 |
+| last720d | 2024-11-05 | 17 | 258 | 98 | 211 | 78 | 474 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccstatusline lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:42:14Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:45:36Z._
