@@ -14,15 +14,15 @@ x install ccstatusline
 
 ## Code insight
 
-Total: **67,889** lines of code across **439** files in the top 5 languages.
+Total: **74,546** lines of code across **466** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 54,671 | 2,536 | 9,475 | 380 |
-| Tsx | 12,699 | 291 | 1,347 | 47 |
+| TypeScript | 61,077 | 2,994 | 10,494 | 406 |
+| Tsx | 12,950 | 323 | 1,368 | 47 |
 | Json | 368 | 0 | 3 | 6 |
 | JavaScript | 151 | 2 | 2 | 1 |
-| Markdown | 0 | 1,012 | 393 | 5 |
+| Markdown | 0 | 1,081 | 417 | 6 |
 
 ## Source
 
@@ -32,26 +32,26 @@ Total: **67,889** lines of code across **439** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.32` (2026-10-09)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
-- **Stars**: 13,448 · **Forks**: 598 · **Open issues**: 291 · **Contributors**: 112
+- **Stars**: 13,467 · **Forks**: 598 · **Open issues**: 291 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 266 · **Open PRs**: 102 · **Closed issues**: 215 · **Open issues**: 76 · **Commits**: 482
+- **Releases**: 17 · **Merged PRs**: 305 · **Open PRs**: 62 · **Closed issues**: 225 · **Open issues**: 66 · **Commits**: 521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 66 | 49 | 3 | 14 | 86 |
-| last60d | 2026-08-30 | 5 | 82 | 63 | 6 | 29 | 118 |
-| 90d | 2026-07-31 | 5 | 96 | 67 | 13 | 35 | 121 |
-| last180d | 2026-05-02 | 17 | 175 | 82 | 60 | 56 | 220 |
-| 360d | 2025-11-03 | 17 | 243 | 101 | 147 | 69 | 356 |
-| last720d | 2024-11-08 | 17 | 266 | 102 | 215 | 76 | 482 |
+| 30d | 2026-09-30 | 2 | 90 | 9 | 4 | 13 | 125 |
+| last60d | 2026-08-31 | 5 | 115 | 26 | 9 | 24 | 157 |
+| 90d | 2026-08-01 | 5 | 133 | 29 | 20 | 28 | 160 |
+| last180d | 2026-05-03 | 17 | 213 | 43 | 70 | 46 | 259 |
+| 360d | 2025-11-04 | 17 | 282 | 61 | 157 | 59 | 395 |
+| last720d | 2024-11-09 | 17 | 305 | 62 | 225 | 66 | 521 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccstatusline lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:04:43Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:58:14Z._
