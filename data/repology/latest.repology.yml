@@ -2,8 +2,8 @@
   srcname: ccstatusline
   binname: ccstatusline
   visiblename: ccstatusline
-  version: 2.2.33
-  origversion: 2.2.33-1
+  version: 2.2.34
+  origversion: 2.2.34-1
   status: unique
   summary: Highly customizable status line formatter for Claude Code CLI with Powerline support
   maintainers:
