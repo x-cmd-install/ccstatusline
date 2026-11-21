@@ -36,7 +36,7 @@ Total: **83,579** lines of code across **501** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,647 · **Forks**: 612 · **Open issues**: 293 · **Contributors**: 128
+- **Stars**: 13,654 · **Forks**: 612 · **Open issues**: 293 · **Contributors**: 128
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **83,579** lines of code across **501** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 58 | 24 | 2 | 2 | 98 |
-| last60d | 2026-09-21 | 4 | 147 | 43 | 11 | 22 | 176 |
-| 90d | 2026-08-22 | 7 | 168 | 44 | 15 | 27 | 210 |
-| last180d | 2026-05-24 | 15 | 242 | 58 | 60 | 39 | 283 |
-| 360d | 2025-11-25 | 19 | 328 | 76 | 157 | 54 | 440 |
-| last720d | 2024-11-30 | 19 | 352 | 77 | 230 | 63 | 572 |
+| 30d | 2026-10-22 | 2 | 57 | 24 | 2 | 2 | 98 |
+| last60d | 2026-09-22 | 4 | 147 | 43 | 10 | 22 | 176 |
+| 90d | 2026-08-23 | 7 | 168 | 44 | 15 | 27 | 210 |
+| last180d | 2026-05-25 | 15 | 242 | 58 | 58 | 39 | 283 |
+| 360d | 2025-11-26 | 19 | 328 | 76 | 156 | 54 | 440 |
+| last720d | 2024-12-01 | 19 | 352 | 77 | 230 | 63 | 572 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccstatusline lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:20:30Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:51Z._
